@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Car4", "Car4\Car4.csproj", "{2FF73B24-A284-4EE0-9BCE-132DDDECC8A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Car4.Infrastructure", "Car4.Infrastructure\Car4.Infrastructure.csproj", "{49B36F5C-6BE6-4D35-959C-038F420B99F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Car4.InputParserService", "Car3.InputParserService\Car4.InputParserService.csproj", "{B0EB1D0E-1150-4FE1-956F-F573E2C73683}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Car4.InputOutputService", "Car4.InputOutputService\Car4.InputOutputService.csproj", "{D7E6AE78-2B67-4593-8D48-73D1CE6A7BA6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Car4.BootStraper", "Car4.BootStraper\Car4.BootStraper.csproj", "{6AE5EBB2-E4DF-41E0-BD8E-D9865C1CA391}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2FF73B24-A284-4EE0-9BCE-132DDDECC8A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FF73B24-A284-4EE0-9BCE-132DDDECC8A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FF73B24-A284-4EE0-9BCE-132DDDECC8A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FF73B24-A284-4EE0-9BCE-132DDDECC8A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49B36F5C-6BE6-4D35-959C-038F420B99F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49B36F5C-6BE6-4D35-959C-038F420B99F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49B36F5C-6BE6-4D35-959C-038F420B99F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49B36F5C-6BE6-4D35-959C-038F420B99F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0EB1D0E-1150-4FE1-956F-F573E2C73683}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0EB1D0E-1150-4FE1-956F-F573E2C73683}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0EB1D0E-1150-4FE1-956F-F573E2C73683}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0EB1D0E-1150-4FE1-956F-F573E2C73683}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7E6AE78-2B67-4593-8D48-73D1CE6A7BA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7E6AE78-2B67-4593-8D48-73D1CE6A7BA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7E6AE78-2B67-4593-8D48-73D1CE6A7BA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7E6AE78-2B67-4593-8D48-73D1CE6A7BA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6AE5EBB2-E4DF-41E0-BD8E-D9865C1CA391}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AE5EBB2-E4DF-41E0-BD8E-D9865C1CA391}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AE5EBB2-E4DF-41E0-BD8E-D9865C1CA391}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AE5EBB2-E4DF-41E0-BD8E-D9865C1CA391}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
